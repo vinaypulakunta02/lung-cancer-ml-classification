@@ -221,5 +221,3 @@ M.Sc. Bioinformatics
 
 Interests: Bioinformatics, Genomics, Machine Learning, Computational Biology
 
-
-Then click
